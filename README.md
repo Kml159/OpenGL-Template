@@ -1,1 +1,1 @@
-# Template Repository for OpenGL C++ Projects
+Template Repository for OpenGL C++ Projects
